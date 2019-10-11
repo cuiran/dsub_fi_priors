@@ -1,0 +1,22 @@
+--env METHOD	--env FM	--env CHR	--env ANNOT	--env OUT
+ols	/mnt/data/fm/Height.SuSiE.snp	1	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	2	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	3	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	4	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	5	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	6	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	7	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	8	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	9	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	10	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	11	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	12	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	13	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	14	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	15	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	16	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	17	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	18	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	19	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	20	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_
+ols	/mnt/data/fm/Height.SuSiE.snp	21	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/combined66.	/mnt/data/result/Height_BLF_PBS_

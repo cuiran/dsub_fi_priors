@@ -1,0 +1,3 @@
+--env METHOD	--env FM	--env CHR	--env ANNOT	--env OUT
+ols	/mnt/data/fm/Height.SuSiE.snp	1	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/ImmGen.all.	/mnt/data/result/Height_BLF_ImmGen_
+ols	/mnt/data/fm/Height.SuSiE.snp	2	/mnt/data/annot/baselineLF_withID.,/mnt/data/annot/ImmGen.all.	/mnt/data/result/Height_BLF_ImmGen_
